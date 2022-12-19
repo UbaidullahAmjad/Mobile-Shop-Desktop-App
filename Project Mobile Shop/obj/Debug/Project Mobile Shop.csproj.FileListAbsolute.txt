@@ -1,0 +1,30 @@
+E:\Study\BIIT\VP\Class work\Project Mobile Shop\Project Mobile Shop\bin\Debug\Project Mobile Shop.exe
+E:\Study\BIIT\VP\Class work\Project Mobile Shop\Project Mobile Shop\bin\Debug\Project Mobile Shop.pdb
+E:\Study\BIIT\VP\Class work\Project Mobile Shop\Project Mobile Shop\obj\Debug\Project Mobile Shop.csprojResolveAssemblyReference.cache
+E:\Study\BIIT\VP\Class work\Project Mobile Shop\Project Mobile Shop\obj\Debug\Project_Mobile_Shop.Form1.resources
+E:\Study\BIIT\VP\Class work\Project Mobile Shop\Project Mobile Shop\obj\Debug\Project_Mobile_Shop.Properties.Resources.resources
+E:\Study\BIIT\VP\Class work\Project Mobile Shop\Project Mobile Shop\obj\Debug\Project Mobile Shop.csproj.GenerateResource.Cache
+E:\Study\BIIT\VP\Class work\Project Mobile Shop\Project Mobile Shop\obj\Debug\Project Mobile Shop.exe
+E:\Study\BIIT\VP\Class work\Project Mobile Shop\Project Mobile Shop\obj\Debug\Project Mobile Shop.pdb
+E:\Study\BIIT\VP\Class work\Project Mobile Shop\Project Mobile Shop\obj\Debug\Project_Mobile_Shop.DashBoard.resources
+E:\Study\BIIT\VP\Class work\Project Mobile Shop\Project Mobile Shop\obj\Debug\Project_Mobile_Shop.ADDProduct.resources
+E:\Study\BIIT\VP\Class work\Project Mobile Shop\Project Mobile Shop\obj\Debug\Project_Mobile_Shop.View.resources
+E:\Study\BIIT\VP\Class work\Project Mobile Shop\Project Mobile Shop\obj\Debug\Project_Mobile_Shop.Sale.resources
+E:\Study\BIIT\VP\Class work\Project Mobile Shop\Project Mobile Shop\obj\Debug\Project_Mobile_Shop.Customer.resources
+E:\Study\BIIT\VP\Class work\Project Mobile Shop\Project Mobile Shop\obj\Debug\Project_Mobile_Shop.Record.resources
+E:\Study\BIIT\VP\Class work\Project Mobile Shop\Project Mobile Shop\obj\Debug\Project_Mobile_Shop.Track.resources
+E:\Study\BIIT\3rd sem\VP\Class work\Project Mobile Shop\Project Mobile Shop\obj\Debug\Project Mobile Shop.exe
+E:\Study\BIIT\3rd sem\VP\Class work\Project Mobile Shop\Project Mobile Shop\obj\Debug\Project Mobile Shop.pdb
+E:\Study\BIIT\3rd sem\VP\Class work\Project Mobile Shop\Project Mobile Shop\bin\Debug\Project Mobile Shop.exe
+E:\Study\BIIT\3rd sem\VP\Class work\Project Mobile Shop\Project Mobile Shop\bin\Debug\Project Mobile Shop.pdb
+E:\Study\BIIT\3rd sem\VP\Class work\Project Mobile Shop\Project Mobile Shop\obj\Debug\Project_Mobile_Shop.Customer.resources
+E:\Study\BIIT\3rd sem\VP\Class work\Project Mobile Shop\Project Mobile Shop\obj\Debug\Project_Mobile_Shop.DashBoard.resources
+E:\Study\BIIT\3rd sem\VP\Class work\Project Mobile Shop\Project Mobile Shop\obj\Debug\Project_Mobile_Shop.Form1.resources
+E:\Study\BIIT\3rd sem\VP\Class work\Project Mobile Shop\Project Mobile Shop\obj\Debug\Project_Mobile_Shop.ADDProduct.resources
+E:\Study\BIIT\3rd sem\VP\Class work\Project Mobile Shop\Project Mobile Shop\obj\Debug\Project_Mobile_Shop.Properties.Resources.resources
+E:\Study\BIIT\3rd sem\VP\Class work\Project Mobile Shop\Project Mobile Shop\obj\Debug\Project_Mobile_Shop.Record.resources
+E:\Study\BIIT\3rd sem\VP\Class work\Project Mobile Shop\Project Mobile Shop\obj\Debug\Project_Mobile_Shop.Sale.resources
+E:\Study\BIIT\3rd sem\VP\Class work\Project Mobile Shop\Project Mobile Shop\obj\Debug\Project_Mobile_Shop.Track.resources
+E:\Study\BIIT\3rd sem\VP\Class work\Project Mobile Shop\Project Mobile Shop\obj\Debug\Project_Mobile_Shop.View.resources
+E:\Study\BIIT\3rd sem\VP\Class work\Project Mobile Shop\Project Mobile Shop\obj\Debug\Project Mobile Shop.csproj.GenerateResource.Cache
+E:\Study\BIIT\3rd sem\VP\Class work\Project Mobile Shop\Project Mobile Shop\obj\Debug\Project Mobile Shop.csprojAssemblyReference.cache
